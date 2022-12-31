@@ -19,9 +19,7 @@ yarn link
 ```
 ## Migrations to other projects 
 
-### use
-
-- To generate a react functional component.
+- Use to generate a react functional component.
 
 ```
 yo filas:rfc
