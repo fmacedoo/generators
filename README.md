@@ -17,8 +17,7 @@ npm install -g yo
 ```
 yarn link
 ```
-## Migrations to other projects
-## Use
+## Migrations to other projects use
 
 - To generate a react functional component.
 
