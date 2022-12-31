@@ -17,10 +17,9 @@ npm install -g yo
 ```
 yarn link
 ```
+## Migrations to other projects 
 
-## Use
-
-- To generate a react functional component.
+- Use to generate a react functional component.
 
 ```
 yo filas:rfc
